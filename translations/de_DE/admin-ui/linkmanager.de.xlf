@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="e890168e1ef7753c250affa3fcdfb21074c35c6f" resname="url.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Bearbeitung</target>
         <note>key: url.editing</note>
       </trans-unit>
       <trans-unit id="51af0ce5242ede206403aac1116ee36ed8887d44" resname="url.editing.title">

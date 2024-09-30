@@ -286,6 +286,16 @@
         <target state="translated">Sprache auswählen</target>
         <note>key: languages.modal.label</note>
       </trans-unit>
+      <trans-unit id="c281023fd6d213d849962bc4a45d59cb7b5c8440" resname="no_items.action">
+        <source>Add sub-items by uploading or use the ‘Create’ button in the top right corner to populate this section.</source>
+        <target state="translated">Fügen Sie Unterelemente hinzu, indem Sie sie hochladen, oder verwenden Sie die Schaltfläche „Erstellen“ in der oberen rechten Ecke, um diesen Bereich zu füllen.</target>
+        <note>key: no_items.action</note>
+      </trans-unit>
+      <trans-unit id="782f084072f3de4010eed417a9c4abcb5404c601" resname="no_items.info">
+        <source>Add first sub-item</source>
+        <target state="translated">Erstes Unterelement hinzufügen</target>
+        <note>key: no_items.info</note>
+      </trans-unit>
       <trans-unit id="e3c395cec9466f06c8f2f3f4b2bfcd9021537714" resname="move_btn.label">
         <source>Move</source>
         <target state="translated">Verschieben</target>

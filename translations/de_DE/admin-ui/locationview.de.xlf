@@ -18,22 +18,22 @@
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Inhalt erstellen</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
         <source>under %content_name%</source>
-        <target state="needs-translation">under %content_name%</target>
+        <target state="translated">unter %content_name%</target>
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="a443a2a76348e8431df4346c11079f9e56735473" resname="content.create.filters.desc">
         <source>Or choose from list</source>
-        <target state="needs-translation">Or choose from list</target>
+        <target state="translated">Oder aus Liste auswählen</target>
         <note>key: content.create.filters.desc</note>
       </trans-unit>
       <trans-unit id="a68fa29f2de8a9e5a1a533e7240b0b667651c4d5" resname="content.create.input.placeholder">
         <source>Type to refine</source>
-        <target state="needs-translation">Type to refine</target>
+        <target state="translated">Tippen zum Ändern</target>
         <note>key: content.create.input.placeholder</note>
       </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="0ac5837ba570c72c15eae58ab98735697a790528" resname="modal.email_address">
         <source>Email Address</source>
-        <target state="needs-translation">Email Address</target>
+        <target state="translated">E-Mail Adresse</target>
         <note>key: modal.email_address</note>
       </trans-unit>
       <trans-unit id="b57923cd51800de1a02208a4765ab1b14d437c50" resname="modal.info">
         <source>Enter your team members email addresses.</source>
-        <target state="needs-translation">Enter your team members email addresses.</target>
+        <target state="translated">Geben Sie die E-Mail Adresse der Teammitglieder an.</target>
         <note>key: modal.info</note>
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Neu hinzufügen</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
       <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Entfernen</target>
         <note>key: tab.locations.action.delete</note>
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete the Location? All its sub-items will be sent to Trash.</source>
-        <target state="needs-translation">Do you want to delete the Location? All its sub-items will be sent to Trash.</target>
+        <target state="translated">Wollen Sie die Location löschen? Alle Unterelemente werden in den Papierkorb verschoben.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
@@ -343,12 +343,12 @@
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Neu hinzufügen</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Entfernen</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
@@ -438,12 +438,12 @@
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Aus</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">An</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">
