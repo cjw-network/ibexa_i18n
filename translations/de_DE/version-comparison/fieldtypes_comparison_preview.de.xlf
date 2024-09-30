@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
         <source>Version created</source>
-        <target state="needs-translation">Version created</target>
+        <target state="translated">Version erstellt</target>
         <note>key: ezobjectrelation.version_created</note>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="bc5660c5a80b1e77cb6bbe8fe9040ff5fb6b0bec" resname="ezobjectrelationlist.version_created">
         <source>Version created</source>
-        <target state="needs-translation">Version created</target>
+        <target state="translated">Version erstellt</target>
         <note>key: ezobjectrelationlist.version_created</note>
       </trans-unit>
       <trans-unit id="96af58f2bb1ab9fbf0a4cf8857f5dc594c74b361" resname="ezurl.link">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="4c6c52e859ac63f2403af879ec879b00dfdbef19" resname="field.columns">
         <source>Columns</source>
-        <target state="needs-translation">Columns</target>
+        <target state="translated">Spalten</target>
         <note>key: field.columns</note>
       </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
@@ -163,17 +163,17 @@
       </trans-unit>
       <trans-unit id="32b70d8863b03f43c344a34191874401ca2070d4" resname="fieldview.no_version.action_text">
         <source>Select version</source>
-        <target state="needs-translation">Select version</target>
+        <target state="translated">Version auswählen</target>
         <note>key: fieldview.no_version.action_text</note>
       </trans-unit>
       <trans-unit id="b205b0d859832da3f3ba317c7ba61d69b207e248" resname="fieldview.no_version.img.alt_text">
         <source>No version selected</source>
-        <target state="needs-translation">No version selected</target>
+        <target state="translated">Keine Version ausgewählt</target>
         <note>key: fieldview.no_version.img.alt_text</note>
       </trans-unit>
       <trans-unit id="7f554b76d28afffc2491c80e9b8ecab8f52c5c78" resname="fieldview.no_version.info_text">
         <source>No version selected</source>
-        <target state="needs-translation">No version selected</target>
+        <target state="translated">Keine Version ausgewählt</target>
         <note>key: fieldview.no_version.info_text</note>
       </trans-unit>
     </body>

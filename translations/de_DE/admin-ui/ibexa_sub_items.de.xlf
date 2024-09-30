@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="0d59826a85ae0f5cc7f6d56efa18d2b9cbe7c687" resname="items_table.row.not_visible.label">
         <source>Not Visible</source>
-        <target state="translated">Nicht sichtbar</target>
+        <target state="translated">Versteckt</target>
         <note>key: items_table.row.not_visible.label</note>
       </trans-unit>
       <trans-unit id="e971be69cde4dc46bcceb65cd0cb255ced2b9bba" resname="items_table.row.visible.label">
