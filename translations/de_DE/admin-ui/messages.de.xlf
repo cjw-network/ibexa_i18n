@@ -158,12 +158,12 @@
       </trans-unit>
       <trans-unit id="5c48055acad8df653edc1f8f65130d784fed3d88" resname="content.hide.modal.please_confirm_to_continue">
         <source>To hide the Content item anyway, click Confirm.</source>
-        <target state="translated">Klicken Sie auf Bestätigen, um das Inhaltselement trotzdem auszublenden.</target>
+        <target state="translated">Klicken Sie auf Bestätigen, um das Inhaltselement trotzdem zu verstecken.</target>
         <note>key: content.hide.modal.please_confirm_to_continue</note>
       </trans-unit>
       <trans-unit id="7932e7fd6d6b90a8264cf5805586cab3294290ed" resname="content.hide.modal.title">
         <source>Content hide conflict</source>
-        <target state="translated">Inhalt verbergen Konflikt</target>
+        <target state="translated">Inhalt verstecken Konflikt</target>
         <note>key: content.hide.modal.title</note>
       </trans-unit>
       <trans-unit id="0f260745fb36618170e86bd6407bb2facd3a05a1" resname="content.hide.modal.warning_content_used_by_other_content">
