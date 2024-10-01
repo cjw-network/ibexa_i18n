@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="d3d224f58fa31ffea8b89208f01cad4f8839d389" resname="future_hide.label">
         <source>Content hide</source>
-        <target state="translated">Inhalt ausblenden</target>
+        <target state="translated">Inhalt verstecken</target>
         <note>key: future_hide.label</note>
       </trans-unit>
       <trans-unit id="f01b2ae0dce2e28724b27d1ca71b44d764d2636e" resname="future_publication.action.reschedule.label">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="e1a3b25d2c19e1d9ed8e6af7b4e5187a793f2bfd" resname="modal.future_hide.discard.header">
         <source>Are you sure you want to cancel the hide of the selected content?</source>
-        <target state="translated">Sind Sie sicher, dass Sie das Ausblenden des ausgewählten Inhalts abbrechen möchten?</target>
+        <target state="translated">Sind Sie sicher, dass Sie das Verstecken des ausgewählten Inhalts abbrechen möchten?</target>
         <note>key: modal.future_hide.discard.header</note>
       </trans-unit>
       <trans-unit id="1a2f2d6804fcdcb1c6303601f113fb57f53b13e0" resname="modal.future_hide.discard.table.event.label">

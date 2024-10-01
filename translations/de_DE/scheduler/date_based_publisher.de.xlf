@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="f359efb190eceeab2e49d2a646c91502426a987d" resname="schedule.content.cancel_schedule_hide.success">
         <source>Canceled scheduled hiding of Content item '%name%'.</source>
-        <target state="translated">Das geplante Ausblenden des Inhaltselements '% name%' wurde abgebrochen.</target>
+        <target state="translated">Das geplante Verstecken des Inhaltselements '% name%' wurde abgebrochen.</target>
         <note>key: schedule.content.cancel_schedule_hide.success</note>
       </trans-unit>
       <trans-unit id="b39b5bde75009f11b771793c4f0196a5822db732" resname="schedule.content.hide_hidden.error">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="e27df1a3f6785eacb845a7cbc6d620a33dbc123e" resname="schedule.content.schedule_hide.success">
         <source>Scheduled Content item '%name%' to hide.</source>
-        <target state="translated">Geplantes Inhaltselement '% name%' zum Ausblenden.</target>
+        <target state="translated">Geplantes Inhaltselement '% name%' zum Verstecken.</target>
         <note>key: schedule.content.schedule_hide.success</note>
       </trans-unit>
       <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">

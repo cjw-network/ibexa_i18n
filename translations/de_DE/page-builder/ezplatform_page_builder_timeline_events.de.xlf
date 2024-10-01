@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="72a430a9747ccc122d0d362a2d85bd9aff1858cf" resname="event.hide_block.title">
         <source>Hide block</source>
-        <target state="translated">Block ausblenden</target>
+        <target state="translated">Block verstecken</target>
         <note>key: event.hide_block.title</note>
       </trans-unit>
       <trans-unit id="4ed8d3970d39af4bdd24bd15a6bb406fda63bd09" resname="event.reveal_block.title">

@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="4edbd819e96b4bea94ad02f9ce655c2f81f1b4d0" resname="content__sidebar_right__hide">
         <source>Hide</source>
-        <target state="translated">Ausblenden</target>
+        <target state="translated">Verstecken</target>
         <note>key: content__sidebar_right__hide</note>
       </trans-unit>
       <trans-unit id="1c34612eb7cf79bac694e81bbc563388bfa3b2bd" resname="content__sidebar_right__invite">
